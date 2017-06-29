@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Music Channels</string>
+    <string name="company_name" translatable="false">Karabas</string>
+    <string name="rich_input_label" translatable="false">Karabas Input</string>
+    <string name="rich_input_feed_url" translatable="false">http://commondatastorage.googleapis.com/android-tv/rich_tv_input_xmltv_feed.xml</string>
+    <string name="rich_setup_add_channel">Add Channels</string>
+    <string name="rich_setup_cancel">Cancel Setup</string>
+    <string name="rich_setup_in_progress">In Progress…</string>
+    <string name="feed_error_message">No feed. Check your connection!</string>
+    <string name="app_link_title_1" translatable="false">App Link Title 1</string>
+    <string name="app_link_title_2" translatable="false">App Link Title 2</string>
+    <string name="details_fragment_subtitle" translatable="false">Details fragment subtitle</string>
+    <string name="details_fragment_body" translatable="false">Details fragment body</string>
+    <string name="details_fragment_action_1" translatable="false">Action 1</string>
+    <string name="details_fragment_action_2" translatable="false">Action 2</string>
+    <string name="item_1" translatable="false">Item 1</string>
+    <string name="item_2" translatable="false">Item 2</string>
+
+    <string name="sync_error_canceled">User canceled sync</string>
+    <string name="sync_error_no_data">No programs or channels found. Check your connection.</string>
+    <string name="sync_error_other">Error code %1$d</string>
+
+
+    <string name="CHILL_OUT_CHANNEL_NAME">Chill Out</string>
+    <string name="CHILL_OUT_CHANNEL_NUMBER">9-1</string>
+    <string name="CHILL_OUT_CHANNEL_LOGO">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/channel-logo.png</string>
+    <string name="CO_PROGRAM_SOURCE">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/video3.mp4</string>
+    <string name="CO_PROGRAM_TITLE">CloZee X VOLO - Soul Search</string>
+    <string name="CO_PROGRAM_DESCRIPTION">funnily the artist Guweiz is influenced heavily by an artist called WLOP and this pic is like a mashup of two of WLOP\'s works, so I don\'t really blame people for not recognising her at first glance</string>
+    <string name="CO_PROGRAM_ART">http://i1.ytimg.com/vi/JL6FJL8TN0U/maxresdefault.jpg</string>
+
+    <string name="SYNTHWAVE_CHANNEL_NAME">Synthwave</string>
+    <string name="SYNTHWAVE_CHANNEL_NUMBER">9-2</string>
+    <string name="SYNTHWAVE_CHANNEL_LOGO">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/channel-logo.png</string>
+    <string name="SW_PROGRAM_SOURCE">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/channelProgram2.mp4</string>
+    <string name="SW_PROGRAM_TITLE">Wice - Star Fighter</string>
+    <string name="SW_PROGRAM_DESCRIPTION">This is everything I need in life. Retro Alfa Romeo Carabo with a futuristic look, driving through a dystopian rocky desert</string>
+    <string name="SW_PROGRAM_ART">http://i1.ytimg.com/vi/EAYfJckSEN0/maxresdefault.jpg</string>
+
+    <string name="HIP_HOP_CHANNEL_NAME">Hip-Hop</string>
+    <string name="HIP_HOP_CHANNEL_NUMBER">9-3</string>
+    <string name="HIP_HOP_CHANNEL_LOGO">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/channel-logo.png</string>
+    <string name="HH_PROGRAM_SOURCE">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/channelProgram3.mp4</string>
+    <string name="HH_PROGRAM_TITLE">Bearded Skull - Under 99</string>
+    <string name="HH_PROGRAM_DESCRIPTION">I think that this beat is capable of some deep shit, I know some people may be catching a different vibe but I am going to write some emotional shit to this beat</string>
+    <string name="HH_PROGRAM_ART">http://i1.ytimg.com/vi/YBkYRyNd7mA/maxresdefault.jpg</string>
+
+    <string name="ROCK_CHANNEL_NAME">Rock</string>
+    <string name="ROCK_CHANNEL_NUMBER">9-4</string>
+    <string name="ROCK_CHANNEL_LOGO">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/channel-logo.png</string>
+    <string name="RK_PROGRAM_SOURCE">https://raw.githubusercontent.com/Karabas911/SimpleJavaCode/master/ChannelProgram4.mp4</string>
+    <string name="RK_PROGRAM_TITLE">Bearded Skull - Under 99</string>
+    <string name="RK_PROGRAM_DESCRIPTION">writing to a piece of music has never been more easy than when I started writing to this... this sounds like something from a Yelawolf album... like some shit that would give you the chills.... I\'ll do nothing less than the best I got in me on this one</string>
+    <string name="RK_PROGRAM_ART">http://i1.ytimg.com/vi/PV71Bbu9zUU/maxresdefault.jpg</string>
+</resources>
